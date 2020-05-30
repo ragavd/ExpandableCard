@@ -1,0 +1,3 @@
+rootProject.name='ExpandableCard'
+include ':app'
+include ':expandablecard'

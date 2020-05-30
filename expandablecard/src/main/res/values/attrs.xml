@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableCard">
+        <attr name="isCardExpandable" format="boolean" />
+        <attr name="isCardExpanded" format="boolean" />
+        <attr name="cardTitle" format="string" />
+        <attr name="cardIcon" format="reference" />
+        <attr name="cardContent" format="reference" />
+    </declare-styleable>
+</resources>
